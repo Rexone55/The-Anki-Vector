@@ -64,24 +64,24 @@ from AnkiVector.modules.helper_funcs.misc import paginate_modules
 from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = f"""
-*Hellow There, I'm Anki Vector 🍑
+*Hi!! I'm Rexo Bot❤️
 
-I'm a Powerfull group manager bot With Cool Modules. Made My @TeamAnkiVector
-hit /help to Find my list of available commands 🕹*
+I'm a Powerfull group manager bot . Made My Master @Rexi_55
+hit /help to Find my list of My commands 🤖*
 """
 
 buttons = [
     [
-        InlineKeyboardButton(text="📌Updates Channel", url="https://t.me/ankivectorUpdates"),
-        InlineKeyboardButton(text="🖲 Support Group", url="https://t.me/AnkiSupport_Official"),
+        InlineKeyboardButton(text="📌Updates Channel", url="https://t.me/Teamabibots"),
+        InlineKeyboardButton(text="🖲 Support Group", url="https://t.me/Abibotssupports"),
     ],
     [
-        InlineKeyboardButton(text="📜 Source Code", url="https://www.youtube.com/watch?v=fXXEcAkWAFU"),
+        InlineKeyboardButton(text="Contact owner", url="https://t.me/Rexi_55"),
         InlineKeyboardButton(text="❔ Help", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add Anki Vector To Youre Group ➕", url="t.me/TheAnkiVectorbot?startgroup=true"
+            text="➕ Add Rexo To Youre Group ➕", url="t.me/TheRexoBot?startgroup=true"
         ),
     ],
 ]
@@ -104,9 +104,8 @@ HELP_STRINGS = f"""
 )
 
 
-DONATE_STRING = """Heya, glad to hear you want to donate!
-You can donate to the original writer's of the Base code,
-Support them  [Damantha Jasinghe](t.me/Damantha_Jasinghe)"""
+DONATE_STRING = """You can donate to the our Team,
+Support them  [Damantha Jasinghe](t.me/Rexi_55)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
